@@ -1,0 +1,9 @@
+torch>=1.12.0
+tqdm
+fastapi
+uvicorn
+tokenizers>=0.13.0
+sentencepiece
+numpy
+aiofiles
+pydantic

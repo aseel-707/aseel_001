@@ -1,0 +1,3 @@
+{"input":"كيف أطبع Hello World في بايثون؟","output":"print('Hello World')"}
+{"input":"اكتب دالة بايثون تجمع عناصر قائمة","output":"def sum_list(a):\n    return sum(a)"}
+{"input":"اكتب كود بايثون يتحقق إذا كانت كلمة palindrome","output":"def is_pal(s):\n    t = ''.join(c for c in s.lower() if c.isalnum())\n    return t == t[::-1]"}
